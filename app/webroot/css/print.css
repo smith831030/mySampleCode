@@ -1,0 +1,15 @@
+body {background-color:#fff !important; }
+#navbar, #div_order_list, .label_checkbox, .op_release_qty, .op_comment, .btn, #order_discount, .footer, h2{display:none !important; }
+.navbar-brand {display:block !important; }
+.navbar-inverse {background-color:#fff !important; border:0 !important; }
+.navbar-fixed-top {position:relative; }
+#hidden_print_logo {display:block !important; margin:20px; }
+#hidden_print_invoice_title {display:block !important; position:absolute; top:50px; right:50px; font-size:20px; font-weight:bold; }
+#div_order_product_list {display:block !important; width:100% !important; }
+#print_invoice_info {display:block !important; padding-bottom:20px; border-bottom:2px solid #000; }
+#print_invoice_info address {display:inline-table !important; margin-right:20px; }
+.table thead tr th {border-bottom:2px solid #000 !important; }
+.table tbody tr td {padding:2px !important; border-bottom:1px solid #000 !important; }
+.printDp {display:block !important; }
+#print_payment_detail {display:block !important; }
+h4 {text-decoration:underline; }

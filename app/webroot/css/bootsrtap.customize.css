@@ -1,0 +1,133 @@
+.label-done {background-color: #882D60; }
+.btn-done {
+    color: #fff;
+    background-color: #AA5585;
+    border-color: #882D60;
+}
+.btn-done:hover {
+	color:#fff;
+	background-color:#882D60;
+	border-color:#204d74
+}
+.colorWhite {color:#fff; margin:10px; }
+.navbar-brand {padding:0 !important; margin:5px 5px 5px 0 !important; }
+.navbar-nav>li>a {padding-top:20px !important; padding-bottom:20px !important; }
+.logout {padding-top:19px; }
+
+h2 {margin-top:30px; }
+.main {margin:100px 0 100px 0; text-align:center; }
+.footer {margin-top:30px; }
+.checkbox input[type=checkbox] {width:20px !important; height:20px !important; margin:0 0 0 -30px !important; }
+.checkbox .label_checkbox {width:50%; margin-bottom:2px; }
+/*#product_list {display:none; }*/
+.orderqty {width:50px; margin-bottom:2px; }
+
+.table tbody tr {cursor:pointer; }
+
+.mReleaseSelect {margin-bottom:40px !important; }
+.span_danger {color:#ff0000; }
+h1, h2, h3, h4, h5, h6 {font-weight:600 !important; }
+.printDp {display:none; }
+select:disabled {background-color:rgb(235, 235, 228); }
+.btn_add_new_item {margin-bottom:5px; }
+
+.startDate, .endDate {width:90px; }
+
+#product_list input.pro_price {width:80px; }
+table tfoot tr td, table tfoot tr th {background-color:#ccc;}
+
+.history_detail {border:2px solid #286090; }
+
+.sp_discount {width:30% !important; height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;}
+
+	.it_student_form label {display:inline-block !important; width:15% !important; }
+.it_student_form label.it_student_radio {display:inline-block !important; width:auto !important; margin:10px 10px 0 10px !important; }
+.it_student_form input.form-control, .it_student_form select.it_student_select {display:inline-block !important; width:80% !important; }
+.it_arrival_city {display:inline-block !important; width:40% !important; }
+.important {color:#ff0000; }
+#s_visa_type_others, #sp_arrival_city_other, #ss_arrival_city_other, #ItStudentSettlementQnaHomestayQhDuration, #ItStudentSettlementQnaShareQsDuration, #ItStudentSettlementQnaDormQdDuration {width:20% !important; }
+.student_form_section {width:98%; margin:0 0 10px auto; }
+label.question_label {width:40% !important; }
+.input {margin-top:10px; }
+h3 span.sub_title {font-weight:400; font-size:14px; }
+.student_form_section .panel-heading {cursor:pointer; }
+
+.label-student-status-0 {background-color:#707177;}
+.label-student-status-1 {background-color:#AA3939;}
+.label-student-status-2 {background-color:#FF8B28;}
+.label-student-status-3 {background-color:#FFC528;}
+.label-student-status-11 {background-color:#A4CE31;}
+.label-student-status-12 {background-color:#37B52A;}
+.label-student-status-13 {background-color:#67A9CC;}
+.label-student-status-14 {background-color:#323CB6;}
+.label-student-status-15 {background-color:#502E75;}
+
+.label-settlement-status-1 {background-color:#550000;}
+.label-settlement-status-2 {background-color:#AD5000;}
+.label-settlement-status-3 {background-color:#11117E;}
+
+/*.label-paid {background-color:#2F4673;}*/
+
+.layer_popup {width:100%; height:100%; position:fixed; left:0; top:0; background-color:#282828; opacity:.85; z-index:1999; text-align:center; display:block; }
+#section_status_change .screen {width:300px; height:400px; position:fixed; top:50%; left:50%; margin-top:-200px; margin-left:-150px; background:#fff; display:block; z-index:2000; border-radius:4px; }
+#section_payment_change .screen {width:300px; height:250px; position:fixed; top:50%; left:50%; margin-top:-110px; margin-left:-150px; background:#fff; display:block; z-index:2000; border-radius:4px; }
+#section_sm_status_change .screen {width:300px; height:260px; position:fixed; top:50%; left:50%; margin-top:-110px; margin-left:-150px; background:#fff; display:block; z-index:2000; border-radius:4px; }
+.status_list {font-size:20px; }
+.m_date {height:30px; border-radius:3px; }
+.m_date[name="data[ItMemo][m_date][month]"] {width:65px; }
+.select_student_list {width:65px; height:30px; border-radius:3px; }
+
+#payment_section label, #payment_section strong {display:inline-block; width:20% !important; }
+
+.student_detail strong {display:inline-block; width:30% !important; }
+
+.panel-body .status_list {width:auto !important; }
+
+.calendar {width:100%; margin:0 !important; padding:0 !important; background-color:#fff;}
+.calendar_label {width:100%; margin:20px 0 0 0 !important; padding:0 !important;}
+.block_day {width:14.2%; height:150px; background-color:#fff; list-style:none; padding:0; float:left; border-right:1px solid #999; border-bottom:1px solid #999; overflow:auto; }
+.block_day_label {display:block; width:14.2%; height:30px; text-align:center; background-color:#826C6C; margin:0; padding-top:5px; float:left; }
+.today {background-color:#ccc; }
+.blank_0 {margin-left:0;}
+.blank_1 {margin-left:14.2%;}
+.blank_2 {margin-left:28.4%;}
+.blank_3 {margin-left:42.6%;}
+.blank_4 {margin-left:56.8%;}
+.blank_5 {margin-left:71%;}
+.blank_6 {margin-left:85.2%;}
+.select_schedule {height:40px; border-radius:3px; font-size:20px; font-weight:bold; }
+
+a.none_effect:hover, a.none_effect:active, a.none_effect:link {text-decoration:none;}
+a.gray_link, a.gray_link:hover, a.gray_link:active, a.gray_link:link {color:#999;}
+
+.calendar_for_excel {position:absolute; width:200px; height:200px; z-index:100; right:475px; top:153px; }
+.calendar_for_excel .calendar_for_excel_months {margin:0; padding:0; width:100%; background-color:#fff; }
+.calendar_for_excel .calendar_for_excel_months li {margin:0; padding:0; padding-top:15px; width:25%; list-style:none; float:left; height:50px; text-align:center; background-color:#fff; }
+#date_for_excel {width:80px; }
+.stat {height:300px; }
+
+#flashMessage {padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;}
+
+@media (max-width:768px){
+	.student_form_section {width:100%; }
+}
+
+.ui-datepicker {z-index:100 !important; }
